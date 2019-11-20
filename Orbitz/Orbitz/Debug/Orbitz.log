@@ -1,0 +1,5 @@
+﻿  Source.cpp
+\\stuhomeodd\homedrive7$\1403307\year - 4\orbitz\orbitz\source.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\stuhomeodd\homedrive7$\1403307\year - 4\orbitz\orbitz\source.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\stuhomeodd\homedrive7$\1403307\year - 4\orbitz\orbitz\source.cpp(177): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Orbitz.vcxproj -> \\StuHomeOdd\HomeDrive7$\1403307\Year - 4\Orbitz\Debug\Orbitz.exe
